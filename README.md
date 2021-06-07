@@ -7,3 +7,25 @@ Data.
 Thx @Justine Nirdine (s0lray)
 https://osintframework.com/
 
+#### General Syntax:
+
+```
+{
+"children" : [
+
+{
+"name": "Example Name",
+"type": "url",
+"url": "http://example.com"
+},
+{
+"name": "Example Name",
+"type": "url",
+"url": "http://example.com"
+}],
+"name" : "folder_nam",
+"type" : "folder"
+}
+
+
+```
