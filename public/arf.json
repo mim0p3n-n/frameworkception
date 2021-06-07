@@ -1,0 +1,17 @@
+{
+  "children" : [
+    {
+      "children": [
+        {
+          "name"  : "Page_Name",
+          "type"  : "url",
+          "url"   : "https://google.com/"
+        }
+      ],
+      "name" : "sub-folder",
+      "type" : "folder"
+    }
+  ],
+  "name" : "framework",
+  "type" : "folder"
+}
