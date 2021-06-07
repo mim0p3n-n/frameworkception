@@ -1,2 +1,2 @@
 # frameworkception
-boomark took inspired by OSINT Framework
+Boomark tool inspired by OSINT Framework
